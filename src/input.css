@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-items {
+    
+        font-size: 24px;
+        color: white;
+    
+}
+
+span {
+    color:#c2e7c6fc;
+}
